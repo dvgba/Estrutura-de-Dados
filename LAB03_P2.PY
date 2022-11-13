@@ -13,6 +13,5 @@ for cont in range(qtdFilmes):  # -----------------------------------------------
     dictFilme1[nome] = ("{" + vilao + "," + str(ano) + "}")
 
 
-
 print("\nDicionario ")
 print(cont for cont in range(qtdFilmes))
